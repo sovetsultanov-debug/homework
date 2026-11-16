@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import { Card, Counter, LoginDemo, ProfileDemo, PropsDemo } from "@/components/lesson/demos";
+import { Card, Counter, LoginDemo, ProfileDemo, PropsDemo } from "./demos";
 
 export const metadata: Metadata = { title: "Урок 11: компоненты React" };
 
